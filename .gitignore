@@ -1,0 +1,8 @@
+.env
+.env.*
+*.pem
+.runpod_api_key
+runpod_proxy_settings.json
+.DS_Store
+__pycache__/
+*.pyc
